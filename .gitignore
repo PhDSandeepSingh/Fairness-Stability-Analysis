@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+manuscript/
+Paper1_LaTeX_Source/
+Paper1_LaTeX_Source.zip
+review/
+_to_delete/
+P1_Response_to_Reviewers.md
+P1_Conditions_Response.md
+README.md
+Paper1_Fairness_Audit_EXECUTED.ipynb
+*.tex
+*.bib
