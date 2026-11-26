@@ -1,6 +1,7 @@
 # Fairness-Stability Analysis
 
-`Python 3.11+` · `scikit-learn 1.6+` · `Fairlearn 0.14.0` · `License: MIT`
+[![Python](https://img.shields.io/badge/Python-3.10+-3776ab?style=flat&logo=python&logoColor=white)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
 A reproducible experimental benchmark auditing how reliably tabular bias-mitigation methods survive train/test split noise across repeated stratified partitions, using paired Nadeau–Bengio overlap-corrected inference, Holm–Bonferroni multiplicity control, 80%-power minimum detectable effects (MDEs), and matched-threshold reference baselines.
 
